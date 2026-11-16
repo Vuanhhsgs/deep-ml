@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T15:21:26.838Z",
+  "generated_at": "2026-11-16T02:53:59.095Z",
   "items": {
     "math:11": {
       "kind": "math",
@@ -66,6 +66,19 @@
       "path": "math/0017-covariance-and-correlation",
       "first_solved_at": "2026-11-15T15:21:25.997Z",
       "last_pushed_at": "2026-11-15T15:21:25.997Z"
+    },
+    "problem:329": {
+      "kind": "problem",
+      "id": "329",
+      "title": "Matrix Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/329",
+      "path": "problems/0329-matrix-rank",
+      "first_solved_at": "2026-11-16T02:53:58.430Z",
+      "last_pushed_at": "2026-11-16T02:53:58.430Z",
+      "language": "python",
+      "lines": 45
     }
   }
 }
