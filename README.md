@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**19** solved · 10 problems · 0 labs · 9 math
+**20** solved · 11 problems · 0 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-11-16 | [solution](problems/0010-calculate-covariance-matrix) |
+| [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/371) | easy | 2026-11-20 | [solution](problems/0371-calculate-number-of-parameters-in-neural-network) |
 | [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-11-16 | [solution](problems/0331-check-linear-independence-of-vectors) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-11-20 | [solution](problems/0003-reshape-matrix) |
 | [Run the Digit Network Forward](https://www.deep-ml.com/problems/1994) | easy | 2026-11-20 | [solution](problems/1994-run-the-digit-network-forward) |
